@@ -1,0 +1,54 @@
+         0  INT    2
+         1  LDA    1
+         2  LDI  100
+         3  STO
+         4  LDA    1
+         5  LDV
+         6  LDI  200
+         7  LSS
+         8  JMZ   30
+         9  LDI  120
+        10  LDI   32
+        11  LDI  105
+        12  LDI  115
+        13  LDI   32
+        14  LDI  108
+        15  LDI  101
+        16  LDI  115
+        17  LDI  115
+        18  LDI   32
+        19  LDI  116
+        20  LDI  104
+        21  LDI   97
+        22  LDI  110
+        23  LDI   32
+        24  LDI   50
+        25  LDI   48
+        26  LDI   48
+        27  LDI   18
+        28  PRS
+        29  JMP   53
+        30  LDI  120
+        31  LDI   32
+        32  LDI  105
+        33  LDI  115
+        34  LDI   32
+        35  LDI  103
+        36  LDI  114
+        37  LDI  101
+        38  LDI   97
+        39  LDI  116
+        40  LDI  101
+        41  LDI  114
+        42  LDI   32
+        43  LDI  116
+        44  LDI  104
+        45  LDI   97
+        46  LDI  110
+        47  LDI   32
+        48  LDI   50
+        49  LDI   48
+        50  LDI   48
+        51  LDI   21
+        52  PRS
+        53  HLT

@@ -1,0 +1,10 @@
+DECLARE
+   x, y;
+BEGIN
+   x := 100;
+   IF x < 200 THEN
+      Write "x is less than 200"
+   ELSE
+      Write "x is greater than 200"
+   END
+END.

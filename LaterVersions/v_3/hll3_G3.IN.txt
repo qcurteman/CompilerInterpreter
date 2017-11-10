@@ -1,0 +1,5 @@
+
+  declare c;
+  begin
+    c :=   12;  writeln c
+  end.

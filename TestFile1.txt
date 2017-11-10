@@ -1,0 +1,10 @@
+DECLARE
+   aaa, bbb;
+BEGIN
+   aaa := 1;
+   WHILE aaa <= 5 DO
+      Write aaa;
+      Endl;
+      aaa := aaa + 1
+   END
+END.

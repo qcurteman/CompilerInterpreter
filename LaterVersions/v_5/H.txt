@@ -1,0 +1,10 @@
+DECLARE
+ aaa;
+BEGIN
+  aaa := 182;
+  if aaa # 82 then
+    write "no"; endl
+  else
+    write "yes"; endl
+  end
+end.

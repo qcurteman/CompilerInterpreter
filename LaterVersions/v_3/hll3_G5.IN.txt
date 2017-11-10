@@ -1,0 +1,10 @@
+
+  declare eeny, meeny, miny, moe;
+  begin
+    eeny :=  10;
+    meeny := 11;
+    writeln eeny;  writeln meeny;
+    miny := (eeny - 12) * eeny - meeny;
+    moe := 13 - eeny;
+    writeln miny;  writeln moe
+  end.

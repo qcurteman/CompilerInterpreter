@@ -1,0 +1,13 @@
+
+DECLARE
+  aaaa, BBB;
+
+BEGIN
+  aaaa := 111;
+  bbb := (111 * 3) + 222 + aaaa;
+  aaaa := bbb;
+  write aaaa;  endl;
+  write "hello";  endl;
+  write "z"
+end.
+

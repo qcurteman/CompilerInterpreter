@@ -1,0 +1,6 @@
+
+  declare eeny, meeny, miny, moe;
+  begin
+    eeny :=  10;   meeny := 11;   miny := 12;    moe := 13;
+    writeln eeny;  writeln meeny;  writeln miny;  writeln moe
+  end.

@@ -1,0 +1,6 @@
+declare a, b, c;
+begin
+  a := 15;
+  c := (a - a) * 2;
+  writeln c
+end.
