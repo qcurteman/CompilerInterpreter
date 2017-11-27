@@ -1,6 +1,6 @@
 # CompilerInterpreter
 
-Interpreter and Compiler: (concepts of programming languages class)
+Interpreter and Compiler: (concepts of programming languages class) Spring 2017
 
 Description:
 - This is a class project that was created using C++.
